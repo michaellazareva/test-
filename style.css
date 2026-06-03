@@ -12,9 +12,9 @@
   --text-muted:     #6c6c75;   /* secondary / helper text      */
   --strike:         #ababb6;   /* crossed-out "value" price    */
 
-  --button-bg:      #16161a;   /* "Add to cart" button         */
+  --button-bg:      #0db5ff;   /* "Add to cart" button         */
   --button-text:    #ffffff;
-  --button-hover:   #34343a;
+  --button-hover:   #0a9ed9;
 
   --badge-bg:       #16161a;   /* "Preferred choice" / "Best value" tag */
   --badge-text:     #ffffff;
